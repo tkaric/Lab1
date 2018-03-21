@@ -1,0 +1,11 @@
+commit e7ab4db49b3e31a2b84c9c7e9ce4b66459399115 (HEAD -> logging, origin/master, master)
+Author: unknown <tamara.karic@students.finki.ukim.mk>
+Date:   Wed Mar 21 17:25:37 2018 +0100
+
+    modify l1.txt
+
+commit a727b61d57b0282bdc610da3fb9ed99066c50d6a
+Author: unknown <tamara.karic@students.finki.ukim.mk>
+Date:   Wed Mar 21 17:19:20 2018 +0100
+
+    Initial commit
